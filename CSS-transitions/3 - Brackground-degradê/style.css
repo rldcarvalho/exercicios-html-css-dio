@@ -7,7 +7,6 @@ body {
     font-family: 'kdam thmor pro', sans-serif;
 }
 
-
 .wrapper {
     height: 100vh;
     width: 100vw;
@@ -19,7 +18,6 @@ body {
     align-items: center;
     animation: backgroundTransition 6s ease-in-out infinite;
 }
-
 
 h1 {
     text-transform: uppercase;
